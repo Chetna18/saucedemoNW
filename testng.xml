@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SaucedemoNW">
+  <test name="SaucedemoNW RegresstionTesting">
+    <packages>
+      <package name="com.qa.saucedemo.tests"/>
+    </packages>
+  </test> <!-- SaucedemoNW RegresstionTesting -->
+</suite> <!-- SaucedemoNW -->

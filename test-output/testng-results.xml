@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SaucedemoNW RegressionParallel" duration-ms="26873" started-at="2020-04-13T23:27:20Z" finished-at="2020-04-13T23:27:47Z">
+    <groups>
+    </groups>
+    <test name="SaucedemoNW RegressionParallelTesting" duration-ms="26873" started-at="2020-04-13T23:27:20Z" finished-at="2020-04-13T23:27:47Z">
+      <class name="com.qa.saucedemo.tests.LoginPageTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.qa.saucedemo.tests.LoginPageTest@18be83e4]" name="loginTest" duration-ms="1292" started-at="2020-04-13T18:27:44Z" finished-at="2020-04-13T18:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.qa.saucedemo.tests.LoginPageTest -->
+      <class name="com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest@8bd1b6a]" name="setup" is-config="true" duration-ms="13546" started-at="2020-04-13T18:27:20Z" finished-at="2020-04-13T18:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.saucedemo.tests.LoginPageTest@18be83e4]" name="setup" is-config="true" duration-ms="10483" started-at="2020-04-13T18:27:34Z" finished-at="2020-04-13T18:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sortItemsTest()[pri:1, instance:com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest@8bd1b6a]" name="sortItemsTest" duration-ms="5" started-at="2020-04-13T18:27:45Z" finished-at="2020-04-13T18:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortItemsTest -->
+        <test-method status="PASS" signature="addItemsToCartTest()[pri:2, instance:com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest@8bd1b6a]" name="addItemsToCartTest" duration-ms="3" started-at="2020-04-13T18:27:45Z" finished-at="2020-04-13T18:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsToCartTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="754" started-at="2020-04-13T18:27:45Z" finished-at="2020-04-13T18:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.saucedemo.tests.LoginPageTest@18be83e4]" name="tearDown" is-config="true" duration-ms="757" started-at="2020-04-13T18:27:46Z" finished-at="2020-04-13T18:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.saucedemo.tests.InventoryPageTest$LoginPageTest -->
+    </test> <!-- SaucedemoNW RegressionParallelTesting -->
+  </suite> <!-- SaucedemoNW RegressionParallel -->
+</testng-results>
