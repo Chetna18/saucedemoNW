@@ -15,7 +15,7 @@ WebDriverManager 3.6.1
 1.Right Click on Testng.xml 
 2. Run as TestNg Suite
 
-For parallel execution, repeat steps 1 and 2 and then,
-3. Right click on Testng2.xml and Run as TestNg Suite.
+For parallel execution, 
+1. Right click on Testng2.xml and Run as TestNg Suite.
 
 ```
