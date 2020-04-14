@@ -19,3 +19,6 @@ For parallel execution,
 1. Right click on Testng2.xml and Run as TestNg Suite.
 
 ```
+## Output 
+It should look like this once it is done running all the tests:
+![Output Result](https://user-images.githubusercontent.com/58912037/79175180-a0048680-7dc2-11ea-82b5-ff5cf8a43cd4.PNG)
